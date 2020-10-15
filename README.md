@@ -1,3 +1,3 @@
 # exhibition
 
-https://emiliepieront.github.io/exhibition/museum perso.html
+https://emiliepieront.github.io/exhibition/museum-perso.html
